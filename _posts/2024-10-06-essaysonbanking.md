@@ -15,7 +15,7 @@ tags: Economics
 
 Ever wonder what really goes on behind the scenes when a bank decides who to lend money to? It's more than just crunching numbers, right? Today, we’re taking a deep dive into that world with insights from Raghuram Rajan’s research on banking. His work unveils how banks think beyond the balance sheet, diving into their relationships with businesses and emphasizing the often-overlooked aspects of information control. It’s like a long-term chess game, and strategy says as much about finance as anything else.
 
-<img src="/assets/images/esssaysonbanking/FirstBankofUS00_crop.jpg" alt="AI"/>
+<img src="/assets/images/essaysonbanking/FirstBankofUS00_crop.jpg" alt="AI"/>
 
 ## 2. Soft Information: The Hidden Edge
 
