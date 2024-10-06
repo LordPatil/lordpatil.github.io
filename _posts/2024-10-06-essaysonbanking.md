@@ -1,16 +1,10 @@
 ---
 title: "Essays on banking: is debt at arms-length always a good option for your business?"
-date: "2024-05-27"
+date: "2024-10-06"
 categories: Banking
 tags: Economics
 ---
 
-```{=html}
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-```
 ## 1. Introduction
 
 Ever wonder what really goes on behind the scenes when a bank decides who to lend money to? It's more than just crunching numbers, right? Today, we’re taking a deep dive into that world with insights from Raghuram Rajan’s research on banking. His work unveils how banks think beyond the balance sheet, diving into their relationships with businesses and emphasizing the often-overlooked aspects of information control. It’s like a long-term chess game, and strategy says as much about finance as anything else.
