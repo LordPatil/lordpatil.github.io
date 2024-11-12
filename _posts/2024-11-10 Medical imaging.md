@@ -116,4 +116,6 @@ These strategic steps aim to optimize costs, increase demand, and position India
 
 ## 7. References
 
-1.  [Essays on banking.](https://dspace.mit.edu/handle/1721.1/13883)
+1.  [Data on number of CT scan machines installed.](https://elora.aerb.gov.in/ELORA/prePopulateGraphData.htm)
+2.  India Medical Devices Report – 5-Year forecast to 2026. Fitch Solutions (2023)
+3.  [Report by Competition commision of India](https://www.cci.gov.in/public/images/marketstudie/en/market-study-of-diagnostic-medical-imaging-equipment-industry-in-india1724145632.pdf)
