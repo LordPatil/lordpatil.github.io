@@ -13,15 +13,15 @@ For a young mother in Bhubaneshwar, a persistent headache was more than just an 
 
 The market value of the Indian medical devices sector is estimated at INR 50,660 Cr in 2023. The overall diagnostic imaging equipment market in India had a market value of INR 14,422 Cr in 2022, INR 15,836 Cr in 2023, and the market value is projected to reach INR 20,968 Cr by 2026 at a CAGR of 9.8% (from 2022 to 2026). The projected market value for CT scan equipment segment (excluding spare parts and accessories) is estimated to reach approximately INR 1,905 Cr by 2026 from INR 1,384 Cr in 2022, at a CAGR of 8.3% during the same period. The figure below shows the forecasted market value growth of the CT scan equipment segment.
 
-<img src="/assets/images/medicalimaging/CT scan market forecast.jpg" alt="MRI"/>
+<img src="/assets/images/medicalimaging/CT scan market forecast.png" alt="MRI"/>
 
 The market value from the MRI equipment market (excluding spare parts and accessories) is estimated to reach INR 1,625 Cr in 2026 from INR 1,425 Cr in 2022, growing at a CAGR of 3.3% per annum during this period. The figure below shows the forecasted market value growth of the MRI equipment segment. The numbers do not include spare parts and accessories.
 
-<img src="/assets/images/medicalimaging/MRI market forecast.jpg" alt="MRI"/>
+<img src="/assets/images/medicalimaging/MRI market forecast.png" alt="MRI"/>
 
 As per the website of the Department of Commerce, Ministry of Commerce and Industry, the total CT scanner apparatus imports (including spare parts and accessories) amounted to INR 1,010 Cr in the financial year 2022-23, while MRI scanner apparatus imports (including spare parts and ancillary components) reached INR 2,240 Cr during the same period. China, USA and Germany were the top import sources for CT scanners whereas, USA , China and the Netherlands were the top importer sources for MRI machines.
 
-<img src="/assets/images/medicalimaging/import volume split by country.jpg" alt="MRI"/>
+<img src="/assets/images/medicalimaging/import volume split by country.png" alt="MRI"/>
 
 ## 3. Oligopoly at the top
 
