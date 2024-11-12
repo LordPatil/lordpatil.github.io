@@ -4,7 +4,6 @@ date: "2024-11-10"
 categories: Market Dynamics
 tags: Economics
 ---
-
 For a young mother in Bhubaneshwar, a persistent headache was more than just an inconvenience. It was a source of gnawing anxiety. Reassured by her doctor's recommendation, she underwent an MRI brain scan, hoping for clarity and a path towards relief. Her experience, like that of countless other patients across India, illustrates the critical role that Diagnostic Medical Imaging (DMI) equipment plays in healthcare. However, the market for DMI equipment in India, particularly CT scanners and MRI machines, presents a complex interplay of stakeholders and competitive forces. While the industry shows promise with a projected market value of INR 20,968 crores by 2026, a closer look reveals a landscape marked by high concentration, barriers to entry, and varying levels of competition across the value chain.
 
 <img src="/assets/images/medicalimaging/MRI_of_Human_Brain.jpg" alt="MRI"/>
