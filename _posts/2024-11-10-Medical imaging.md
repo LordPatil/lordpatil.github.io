@@ -8,24 +8,9 @@ tags: Economics
 For a young mother in Bhubaneshwar, a persistent headache was more than just an inconvenience. It was a source of gnawing anxiety. Reassured by her doctor's recommendation, she underwent an MRI brain scan, hoping for clarity and a path towards relief. Her experience, like that of countless other patients across India, illustrates the critical role that Diagnostic Medical Imaging (DMI) equipment plays in healthcare. However, the market for DMI equipment in India, particularly CT scanners and MRI machines, presents a complex interplay of stakeholders and competitive forces. While the industry shows promise with a projected market value of INR 20,968 crores by 2026, a closer look reveals a landscape marked by high concentration, barriers to entry, and varying levels of competition across the value chain.
 
 <img src="/assets/images/medicalimaging/MRI_of_Human_Brain.jpg" alt="MRI"/>
+## Oligopoly at the top
 
-## 2. Market Size and Growth Potential:
-
-The market value of the Indian medical devices sector is estimated at INR 50,660 Cr in 2023. The overall diagnostic imaging equipment market in India had a market value of INR 14,422 Cr in 2022, INR 15,836 Cr in 2023, and the market value is projected to reach INR 20,968 Cr by 2026 at a CAGR of 9.8% (from 2022 to 2026). The projected market value for CT scan equipment segment (excluding spare parts and accessories) is estimated to reach approximately INR 1,905 Cr by 2026 from INR 1,384 Cr in 2022, at a CAGR of 8.3% during the same period. The figure below shows the forecasted market value growth of the CT scan equipment segment.
-
-<img src="/assets/images/medicalimaging/CT scan market forecast.png" alt="MRI"/>
-
-The market value from the MRI equipment market (excluding spare parts and accessories) is estimated to reach INR 1,625 Cr in 2026 from INR 1,425 Cr in 2022, growing at a CAGR of 3.3% per annum during this period. The figure below shows the forecasted market value growth of the MRI equipment segment. The numbers do not include spare parts and accessories.
-
-<img src="/assets/images/medicalimaging/MRI market forecast.png" alt="MRI"/>
-
-As per the website of the Department of Commerce, Ministry of Commerce and Industry, the total CT scanner apparatus imports (including spare parts and accessories) amounted to INR 1,010 Cr in the financial year 2022-23, while MRI scanner apparatus imports (including spare parts and ancillary components) reached INR 2,240 Cr during the same period. China, USA and Germany were the top import sources for CT scanners whereas, USA , China and the Netherlands were the top importer sources for MRI machines.
-
-<img src="/assets/images/medicalimaging/import volume split by country.png" alt="MRI"/>
-
-## 3. Oligopoly at the top
-
-The market for new DMI equipment, particularly CT and MRI machines, exhibits a highly concentrated structure, with a small number of global OEMs holding a dominant position. Based on the data available on AERB portal75 on the number of CT scan machines installed in hospitals and diagnostic centres across India, it is observed that GE holds a market share of \~44.8% in India, followed by Siemens at approximately 31.3%. Canon (including Toshiba) and Philips account for approximately 10.5% share and 8.4% of the market shares, respectively. Table below provides the market shares enjoyed by OEMs in the market based on total number of CT Scan machines installed in India. This is a cumulative number of total machines presently in use. As can be seen in Table 6, top 5 OEMs together capture \~98 percent of the market, conforming with characteristics of an oligopolistic market.
+The market for new DMI equipment, particularly CT and MRI machines, exhibits a highly concentrated structure, with a small number of global Original  Equipment manufacturers (OEMs) holding a dominant position. Based on the data available on [AERB](https://elora.aerb.gov.in/ELORA/prePopulateGraphData.htm) portal on the number of CT scan machines installed in hospitals and diagnostic centres across India, it is observed that GE holds a market share of \~44.8% in India, followed by Siemens at approximately 31.3%. Canon (including Toshiba) and Philips account for approximately 10.5% share and 8.4% of the market shares, respectively. Table below provides the market shares enjoyed by OEMs in the market based on total number of CT Scan machines installed in India. This is a cumulative number of total machines presently in use. As can be seen in Table 6, top 5 OEMs together capture \~98 percent of the market, conforming with characteristics of an oligopolistic market.
 
 | Sr. No.   | Manufacturer       | Number of CT Machines Installed\* | Market Share (%) |
 |-----------|--------------------|-----------------------------------|------------------|
@@ -61,9 +46,25 @@ Similarly, in the MRI market, the top five players (Siemens, GE, Philips, United
 
 Market concentration can be assessed once market shares are calculated. It serves as an indicator of the potential for anticompetitive behavior, either through unilateral actions or collusion among market participants, which can be detrimental to consumers. One widely used metric for evaluating market concentration is the Herfindahl-Hirschman Index (HHI). The HHI is calculated by summing the squares of the market shares of all firms, assigning more weight to companies with larger shares. This characteristic reflects the idea that higher market concentration, indicated by a higher HHI, correlates with weaker market competition.
 
-The HHI for the total installed CT scan machines in India is approximately 3,178, while for six major study cities, it stands at about 3,166. These values indicate a highly concentrated market. According to the U.S. Department of Justice’s Antitrust Division, an HHI between 1,500 and 2,500 indicates moderate concentration, while an HHI above 2,500 signifies a highly concentrated market. In contrast, the HHI for the MRI machine market value in India for 2022 is 2,348, indicating moderate concentration.
+The HHI for the total installed CT scan machines in India is approximately 3,178. This value indicate a highly concentrated market. According to the U.S. Department of Justice’s Antitrust Division, an HHI between 1,500 and 2,500 indicates moderate concentration, while an HHI above 2,500 signifies a highly concentrated market. In contrast, the HHI for the MRI machine market value in India for 2022 is 2,348, indicating moderate concentration.
 
-## 4. Pricing for purchasers of DMI and end users
+## Market Size and Growth Potential:
+
+The market value of the Indian medical devices sector is estimated at INR 50,660 Cr in 2023. The overall diagnostic imaging equipment market in India had a market value of INR 14,422 Cr in 2022, INR 15,836 Cr in 2023, and the market value is projected to reach INR 20,968 Cr by 2026 at a CAGR of 9.8% (from 2022 to 2026). The projected market value for CT scan equipment segment (excluding spare parts and accessories) is estimated to reach approximately INR 1,905 Cr by 2026 from INR 1,384 Cr in 2022, at a CAGR of 8.3% during the same period. The figure below shows the forecasted market value growth of the CT scan equipment segment.
+
+<img src="/assets/images/medicalimaging/CT scan market forecast.png" alt="MRI"/>
+
+The market value from the MRI equipment market (excluding spare parts and accessories) is estimated to reach INR 1,625 Cr in 2026 from INR 1,425 Cr in 2022, growing at a CAGR of 3.3% per annum during this period. The figure below shows the forecasted market value growth of the MRI equipment segment. The numbers do not include spare parts and accessories.
+
+<img src="/assets/images/medicalimaging/MRI market forecast.png" alt="MRI"/>
+
+As per the website of the Department of Commerce, Ministry of Commerce and Industry, the total CT scanner apparatus imports (including spare parts and accessories) amounted to INR 1,010 Cr in the financial year 2022-23, while MRI scanner apparatus imports (including spare parts and ancillary components) reached INR 2,240 Cr during the same period. China, USA and Germany were the top import sources for CT scanners whereas, USA , China and the Netherlands were the top importer sources for MRI machines.
+
+<img src="/assets/images/medicalimaging/import volume split by country.png" alt="MRI"/>
+
+
+
+## Pricing for purchasers of DMI and end users
 
 The pricing of Diagnostic Medical Imaging (DMI) equipment, such as CT and MRI machines, depends on technical specifications, manufacturer, and features. Key observations on Original Equipment Manufacturers’ (OEMs) pricing strategies include:
 
@@ -89,7 +90,7 @@ Multiple diagnostic centres have set up operations close to each other and were 
 | Diagnostic Centre         | 8,000         | 3,590 – 8,400 | 2,500 – 8,000 | 6,000         | 4,500 – 5,000  | 6,500           |
 | PPP\* Centre              | \-            | \-            | 2,000         | \-            | \-             | \-              |
 
-## 5. Barriers to entry
+## Barriers to entry
 
 Barriers to entry in the Diagnostic Medical Imaging (DMI) market include:
 
@@ -97,7 +98,7 @@ Barriers to entry in the Diagnostic Medical Imaging (DMI) market include:
 2.  **High Operating Costs**: Operating DMI equipment incurs significant expenses, including preventive maintenance and electricity for air conditioning to maintain optimal equipment temperature. Additionally, these machines require large spaces, increasing rent costs for hospitals and diagnostic centers.
 3.  **Lock-In Period**: Once purchased, equipment generally locks hospitals and diagnostic centers in for 7-10 years. The high cost makes frequent replacements impractical, even if there are issues with the equipment or after-sales service, further limiting flexibility for new or smaller players.
 
-## 6. What could improve the situation for end users
+## What could improve the situation for end users
 
 A phased approach is recommended to enhance competition and local manufacturing in India's Diagnostic Medical Imaging (DMI) equipment market.
 
@@ -115,7 +116,7 @@ Self-Regulatory Measures: OEMs should offer clear cost breakdowns for maintenanc
 
 These strategic steps aim to optimize costs, increase demand, and position India as a key player in the global DMI market.
 
-## 7. References
+## References
 
 1.  [Data on number of CT scan machines installed.](https://elora.aerb.gov.in/ELORA/prePopulateGraphData.htm)
 2.  India Medical Devices Report – 5-Year forecast to 2026. Fitch Solutions (2023)
