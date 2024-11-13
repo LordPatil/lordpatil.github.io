@@ -12,7 +12,7 @@ For a young mother in Bhubaneshwar, a persistent headache was more than just an 
 
 The market for new DMI equipment, particularly CT and MRI machines, exhibits a highly concentrated structure, with a small number of global Original  Equipment manufacturers (OEMs) holding a dominant position. Based on the data available on [AERB](https://elora.aerb.gov.in/ELORA/prePopulateGraphData.htm) portal on the number of CT scan machines installed in hospitals and diagnostic centres across India, it is observed that GE holds a market share of \~44.8% in India, followed by Siemens at approximately 31.3%. Canon (including Toshiba) and Philips account for approximately 10.5% share and 8.4% of the market shares, respectively. Table below provides the market shares enjoyed by OEMs in the market based on total number of CT Scan machines installed in India. This is a cumulative number of total machines presently in use. As can be seen in Table 6, top 5 OEMs together capture \~98 percent of the market, conforming with characteristics of an oligopolistic market.
 
-| Sr. No.   | Manufacturer       | Number of CT Machines Installed\* | Market Share (%) |
+| Sr. No.   | Manufacturer       | Number of CT Machines Installed | Market Share (%) |
 |-----------|--------------------|-----------------------------------|------------------|
 | 1         | GE                 | 3,671                             | 44.75            |
 | 2         | Siemens            | 2,570                             | 31.34            |
@@ -31,7 +31,7 @@ The market for new DMI equipment, particularly CT and MRI machines, exhibits a h
 
 Similarly, in the MRI market, the top five players (Siemens, GE, Philips, United Imaging, and Fujifilm/Hitachi) command over 91% of the market share in terms of revenue.
 
-| Sr. No.   | Manufacturer       | Number of CT Machines Installed\* | Market Share (%) |
+| Sr. No.   | Manufacturer       | Number of CT Machines Installed | Market Share (%) |
 |-----------|--------------------|-----------------------------------|------------------|
 | 1         | GE                 | 429                               | 43.03            |
 | 2         | Siemens            | 332                               | 33.30            |
